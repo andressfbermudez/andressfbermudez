@@ -16,24 +16,6 @@ I love programming in Java ☕, although I also admire the simplicity and elegan
 
 
 
-<!--- stats & Trophy (start) -->
-<p align="center">
-<!--- stats (start) -->
-<table align="center" border="0">
-<tr>
-<td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Andres-Bermudez&theme=dark&show_icons=true&count_private=true" alt="GitHub Stats" />
-<br />
-<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Andres-Bermudez&theme=dark&hide_border=false" /> 
-</td>
-
-<td width="50%" align="center">
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Andres-Bermudez&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10&count_private=true" alt="Top Languages" />
-
-</td>
-</tr>
-</table>
-<!--- stats (end) -->
 
 <!--- trophy (start) -->
 <div align="center">
@@ -62,23 +44,6 @@ I love programming in Java ☕, although I also admire the simplicity and elegan
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,linux,git,github,html,css,js,postman,py,idea,vscode,linkedin,stackoverflow,discord&perline=14" />
   </a>
-</p>
-
-
-
-
-<!-- STATS Y LENGUAJES MAS USADOS -->
-<div style="display:grid;align-items:center;justify-content:center">
-  <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api?username=Andres-Bermudez&theme=gotham&count_private=true&show_icons=true&include_all_commits=true"/>
-  <img style="height:100%;width:49%;max-width: 10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andres-Bermudez&layout=compact&theme=gotham&langs_count=8"/>
-</div>
-
-
-
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Andres-Bermudez/Andres-Bermudez/main/resources/img/github-contribution-grid-snake.svg" alt="example" />
 </p>
 
  
