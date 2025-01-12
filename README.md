@@ -67,16 +67,10 @@ I love programming in Java ☕, although I also admire the simplicity and elegan
 
 
 
-<picture>
-  <!-- Fuente para el esquema oscuro -->
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Andres-Bermudez/Andres-Bermudez/output/github-contribution-grid-snake-dark.svg">
-  
-  <!-- Fuente para el esquema claro -->
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Andres-Bermudez/Andres-Bermudez/output/github-contribution-grid-snake.svg">
-  
-  <!-- Imagen por defecto en caso de que no se detecte el esquema de color -->
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Andres-Bermudez/Andres-Bermudez/output/github-contribution-grid-snake.svg">
-</picture>
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
  
 
 
