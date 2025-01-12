@@ -68,7 +68,7 @@ I love programming in Java ☕, although I also admire the simplicity and elegan
 
 
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+  <img  src="https://raw.githubusercontent.com/Andres-Bermudez/Andres-Bermudez/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
 </p>
  
