@@ -67,6 +67,16 @@ I love programming in Java ☕, although I also admire the simplicity and elegan
 
 
 
+<!-- STATS Y LENGUAJES MAS USADOS -->
+<div style="display:grid;align-items:center;justify-content:center">
+  <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api?username=Andres-Bermudez&theme=gotham&count_private=true&show_icons=true&include_all_commits=true"/>
+  <img style="height:100%;width:49%;max-width: 10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andres-Bermudez&layout=compact&theme=gotham&langs_count=8"/>
+</div>
+
+
+
+
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Andres-Bermudez/Andres-Bermudez/main/resources/img/github-contribution-grid-snake.svg" alt="example" />
 </p>
