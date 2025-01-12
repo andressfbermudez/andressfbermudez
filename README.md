@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Andrés <img height="40" src="[https://emoji.gg/assets/emoji/7333-parrotdance.gif](https://www.google.com/search?q=gif+parrot+dance&sca_esv=272dbc5c12b3a66f&udm=2&biw=1536&bih=711&sxsrf=ADLYWIJg_5zIxSjHMlaAQrmFUBgLLAqF7A%3A1736655236209&ei=hEGDZ6-9DJ6PwbkP78nl8AU&ved=0ahUKEwivj87zqO-KAxWeRzABHe9kGV4Q4dUDCBE&uact=5&oq=gif+parrot+dance&gs_lp=EgNpbWciEGdpZiBwYXJyb3QgZGFuY2UyBBAAGB4yBhAAGAgYHjIGEAAYCBgeMgYQABgIGB5I0wxQzAVYnQtwAngAkAEAmAGFAaAB6AWqAQMwLja4AQPIAQD4AQGYAgegAo4FwgIGEAAYBxgewgIFEAAYgATCAgYQABgKGB7CAgcQABiABBgTwgIGEAAYExgewgIIEAAYExgKGB7CAggQABgTGAUYHsICCBAAGBMYCBgemAMAiAYBkgcDMi41oAeHJw&sclient=img#vhid=019yvT8ZL-CwGM&vssid=mosaic)"></h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Andrés <img height="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.picmix.com%2Fstamp%2Fminecraft-parrot-dance-bird-1744826&psig=AOvVaw1VDniHZ6Gz8h_IxQOpOP0h&ust=1736741664606000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIDx4IGp74oDFQAAAAAdAAAAABAV"></h1>
 
 
 <p>
@@ -20,7 +20,7 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Andres-Bermudez&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Andres-Bermudez&theme=dark&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
