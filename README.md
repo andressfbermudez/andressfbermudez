@@ -1,43 +1,52 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Andrés <img height="40" src="https://en.picmix.com/stamp/minecraft-parrot-dance-bird-1744826"></h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Andrés <img height="40" src="/images/parrot.gif"></h1>
+
+
 
 
 <p>
-  Soy un 💻 Desarrollador Backend especializado en Java con Spring Boot, con experiencia en el desarrollo de APIs RESTful 📡, diseño e implementación de bases de datos relacionales MySQL 🐬 y 
-  PostgreSQL 🐘, uso de sistemas de control de versiones como Git y GitHub 😺, y manejo de sistemas operativos Linux 🐧.
-  <br><br>
-  ¡La programación es mi profesión y hobby! 💻
-  <br><br>
-  Me encanta programar en Java ☕, aunque también admiro la simplicidad y elegancia de los principios del Zen de Python 🐍. Al final del día, lo importante es que el código compile ⚙️... ¡o al     menos no explote demasiado 💥!
+I am a 💻 Backend Developer specialized in Java with Spring Boot, with experience in developing RESTful APIs 📡, designing and implementing MySQL 🐬 and
+PostgreSQL 🐘 relational databases, using version control systems such as Git and GitHub 😺, and handling Linux operating systems 🐧.
+
+Programming is my profession and hobby! 💻
+
+I love programming in Java ☕, although I also admire the simplicity and elegance of Python's Zen principles 🐍. At the end of the day, the important thing is that the code compiles ⚙️... or at least doesn't explode too much 💥!
 </p>
+
+
+
 
 
 <!--- stats & Trophy (start) -->
 <p align="center">
-  <!--- stats (start) -->
-  <table align="center">
-    <tr border="none">
-      <td width="50%" align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=Andres-Bermudez&theme=dark&show_icons=true&count_private=true" />
-        <br><br>
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Andres-Bermudez&theme=dark&hide_border=false" />
-      </td>
+<!--- stats (start) -->
+<table align="center" border="0">
+<tr>
+<td width="50%" align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Andres-Bermudez&theme=dark&show_icons=true&count_private=true" alt="GitHub Stats" />
+<br />
+<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Andres-Bermudez&theme=dark&hide_border=false" /> 
+</td>
 
-      <td width="50%" align="center">
-        <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Andres-Bermudez&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" />
-      </td>
-    </tr>
-  </table>
-  <!--- stats (end) -->
+<td width="50%" align="center">
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Andres-Bermudez&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10&count_private=true" alt="Top Languages" />
 
-  <!--- trophy (start) -->
-  <div align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width="84%" src="https://github-profile-trophy.vercel.app/?username=Andres-Bermudez&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-  </div>
-  <!--- trophy (end) -->
-</p>
+</td>
+</tr>
+</table>
 <!--- stats (end) -->
+
+<!--- trophy (start) -->
+<div align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+  <img src="https://github-profile-trophy.vercel.app/?username=Andres-Bermudez&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="GitHub Trophy" width="84%" />
+</a>
+</div>
+<!--- trophy (end) -->
+</p>        
+<!--- stats & Trophy (end) -->
+
+
+
 
 
 
@@ -45,15 +54,19 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Technologies That I Know 👨🏻‍💻</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,discord,postgres,github,html,java,js,linux,mysql,postman,py,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,linux,git,github,html,css,js,postman,py,idea,vscode,linkedin,stackoverflow,discord&perline=14" />
   </a>
 </p>
+
+
+
+
 
 <!--
 **Andres-Bermudez/Andres-Bermudez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
