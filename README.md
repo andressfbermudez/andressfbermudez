@@ -9,16 +9,12 @@ Programming is my profession and hobby! 💻
 I love programming in Java ☕, although I also admire the simplicity and elegance of Python's Zen principles 🐍. At the end of the day, the important thing is that the code compiles ⚙️... or at least doesn't explode too much 💥!
 </p>
 
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Andres-Bermudez&theme=dark" alt="GitHub Streak Stats"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=Andres-Bermudez&show_icons=true&theme=dark&locale=en&hide=python" alt="GitHub Stats"/>
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Andres-Bermudez&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10&hide=python" alt="Top Languages"/>
-</p>
+
 
 ### 🏆 GitHub Trophies
 <div align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-        <img src="https://github-profile-trophy.vercel.app/?username=Andres-Bermudez&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="GitHub Trophy" width="84%" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=Andres-Bermudez&count_private=true&show_icons=trueline_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite">
     </a>
 </div>
 
