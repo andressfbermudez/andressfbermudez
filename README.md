@@ -9,11 +9,12 @@ Programming is my profession and hobby! 💻
 I love programming in Java ☕, although I also admire the simplicity and elegance of Python's Zen principles 🐍. At the end of the day, the important thing is that the code compiles ⚙️... or at least doesn't explode too much 💥!
 </p>
 
+### 📊 My statistics 📈
 <table border="0" align="center">
 <tr border="0">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Andres-Bermudez&theme=cobalt&show_icons=true&count_private=true&color-text=ffffff" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Andres-Bermudez&theme=dark&show_icons=true&count_private=true&color-text=ffffff" />
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hhpr98&theme=dark&hide_border=true" />
 
