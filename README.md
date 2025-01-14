@@ -15,7 +15,7 @@ I love programming in Java ☕, although I also admire the simplicity and elegan
 
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Andres-Bermudez&show_icons=true&theme=radical&text_color=ffffff)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Andres-Bermudez&hide=python&&text_color=ffffff&layout=compact)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Andres-Bermudez&hide=python&text_color=ffffff&layout=compact)
 
 
 
