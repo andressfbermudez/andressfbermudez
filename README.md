@@ -15,6 +15,9 @@ I love programming in Java ☕, although I also admire the simplicity and elegan
 
 
 
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Andres-Bermudez&show_icons=true&theme=radical)
+
+
 
 
 <!--- trophy (start) -->
