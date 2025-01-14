@@ -9,28 +9,13 @@ Programming is my profession and hobby! 💻
 I love programming in Java ☕, although I also admire the simplicity and elegance of Python's Zen principles 🐍. At the end of the day, the important thing is that the code compiles ⚙️... or at least doesn't explode too much 💥!
 </p>
 
-<h3 align="center">📊 My Statistics:</h3>
 
-<p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Andres-Bermudez&theme=radical&show_icons=true&count_private=true" alt="GitHub Stats" />
-  <br><br>
-  <img title="🔥 GitHub Streak Stats" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Andres-Bermudez&theme=radical&hide_border=false" />
-</td>
-<td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andres-Bermudez&theme=radical&hide_border=false&langs_count=10&layout=compact" alt="Top Languages"/>
-</td>
-</tr>
-</table>
-</p>
 
 <!--Trophies Section-->   
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
   <a href="https://github.com/Kiran1689/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Andres-Bermudez&row=2&column=6&margin-w=20&margin-h=20" alt="GitHub Trophies">
+    <img src="https://github-profile-trophy.vercel.app/?username=Andres-Bermudez&row=2&column=6&margin-w=20&margin-h=20&theme=radical" alt="GitHub Trophies">
   </a>
 </p>
 <br />
