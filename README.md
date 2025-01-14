@@ -9,7 +9,7 @@ Programming is my profession and hobby! 💻
 I love programming in Java ☕, although I also admire the simplicity and elegance of Python's Zen principles 🐍. At the end of the day, the important thing is that the code compiles ⚙️... or at least doesn't explode too much 💥!
 </p>
 
-### 📊 My statistics 📈
+<h2 align="center">📊 My Statistics 📈</h2>
 <table border="0" align="center">
 <tr border="0">
 <td width="50%" align="center">
