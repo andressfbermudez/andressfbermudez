@@ -9,7 +9,7 @@ Programming is my profession and hobby! 💻
 I love programming in Java ☕, although I also admire the simplicity and elegance of Python's Zen principles 🐍. At the end of the day, the important thing is that the code compiles ⚙️... or at least doesn't explode too much 💥!
 </p>
 
-<p align="center">
+<p align="row">
     <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Andres-Bermudez&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10&hide=python" alt="Top Languages"/>
     <div align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Andres-Bermudez&theme=tokyonight" alt="mystreak"/>
