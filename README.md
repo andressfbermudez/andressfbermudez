@@ -12,11 +12,9 @@ I love programming in Java ☕, although I also admire the simplicity and elegan
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Andres-Bermudez&show_icons=true&theme=radical&text_color=ffffff&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andres-Bermudez&hide=python&layout=compact&theme=radical&text_color=ffffff" alt="Top Languages" width="48%"/>
-</p>
-
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Andres-Bermudez&theme=dark" alt="anii693" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Andres-Bermudez&show_icons=true&theme=dark&locale=en" alt="anii693" />
+<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Andres-Bermudez&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 ---
 
 ### 🏆 GitHub Trophies
