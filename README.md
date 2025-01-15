@@ -4,9 +4,9 @@
 I am a 💻 Backend Developer specialized in Java with Spring Boot, with experience in developing RESTful APIs 📡, designing and implementing MySQL 🐬 and
 PostgreSQL 🐘 relational databases, using version control systems such as Git and GitHub 😺, and handling Linux operating systems 🐧.
 
-Programming is my profession and hobby! 💻
-
 I love programming in Java ☕, although I also admire the simplicity and elegance of Python's Zen principles 🐍. At the end of the day, the important thing is that the code compiles ⚙️... or at least doesn't explode too much 💥!
+
+Programming is my profession and hobby! 💻
 </p>
 
 <h2 align="center">📊 My Statistics 📈</h2>
