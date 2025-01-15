@@ -16,7 +16,6 @@ I love programming in Java ☕, although I also admire the simplicity and elegan
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Andres-Bermudez&theme=dark&show_icons=true&count_private=true&color-text=ffffff" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hhpr98&theme=dark&hide_border=true" />
 
 
   
