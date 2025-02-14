@@ -14,21 +14,21 @@ Programming is my profession and hobby! 💻
 <td width="50%" align="center">
 <<<<<<< HEAD
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Andres-Bermudez&theme=dark&show_icons=true&count_private=true&color-text=ffffff" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=andressfbermudez&theme=dark&show_icons=true&count_private=true&color-text=ffffff" />
   <br></br>
 
 
   
 =======
-<img src="https://github-readme-stats.vercel.app/api?username=Andres-Bermudez&theme=dark&show_icons=true&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=andressfbermudez&theme=dark&show_icons=true&count_private=true" alt="GitHub Stats" />
 <br />
-<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Andres-Bermudez&theme=dark&hide_border=false" />
+<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=andressfbermudez&theme=dark&hide_border=false" />
 >>>>>>> 73c0f0c (Updated README)
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Andres-Bermudez&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=andressfbermudez&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
@@ -40,7 +40,7 @@ Programming is my profession and hobby! 💻
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
   <a href="https://github.com/Kiran1689/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Andres-Bermudez&row=2&column=6&margin-w=20&margin-h=20&theme=radical" alt="GitHub Trophies">
+    <img src="https://github-profile-trophy.vercel.app/?username=andressfbermudez&row=2&column=6&margin-w=20&margin-h=20&theme=radical" alt="GitHub Trophies">
   </a>
 </p>
 <br />
