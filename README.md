@@ -1,9 +1,9 @@
 <h1 align="center" style="font-weight: 900;">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Andrés <img height="40" src="/images/parrot.gif"></h1>
 
 <p>
-I am a 💻 Software Developer specialized in Java with Spring Boot, with experience in developing RESTful APIs 📡, designing and implementing MySQL 🐬 and PostgreSQL 🐘 relational databases, using version control systems such as Git and GitHub 😺, and managing Linux operating systems 🐧.
+Software developer 💻 specializing in Java ☕ and Spring Boot 🌱 with experience developing RESTful APIs 🌐, web applications 🖥️, and designing, managing, and implementing relational databases 🗄️ (MySQL 🐬, Oracle 🏛️, PostgreSQL 🐘). Skilled in version control 🔄 (Git 🛠️, GitHub) and handling Windows 🏁 and Linux 🐧 operating systems.
 
-I love programming in Java ☕, although I also admire the simplicity and elegance of Python's Zen principles 🐍. At the end of the day, the important thing is that the code compiles ⚙️... or at least doesn't explode too much 💥!
+Graduate of the ONE - Oracle Next Education program 🎓, specializing in backend development with Java and the Spring Framework, and currently a Software Engineering student 📚. 🚀
 
 Programming is my profession and hobby! 💻
 </p>
