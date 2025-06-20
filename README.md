@@ -1,9 +1,11 @@
 <h1 align="center" style="font-weight: 900;">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Andrés <img height="40" src="/images/parrot.gif"></h1>
 
 <p>
-Software developer specializing in backend development, with experience in Java and Spring Boot. Knowledge of relational database administration, design, and management such as MySQL and PostgreSQL.
-Experience developing RESTful APIs, web applications, and server administration. He has also worked in automation with Python and frontend development with HTML, CSS, and JavaScript.
-Knowledge of DevOps practices and application deployment.
+Desarrollador de software especializado en backend, con experiencia en el desarrollo de aplicaciones web utilizando Java (Spring Boot) y Python (FastAPI). Conocimientos en administración, diseño y gestión de bases de datos relacionales (SQL). 
+
+Experiencia en el desarrollo de APIs RESTful, aplicaciones web, aplicaciones de escritorio y administración de servidores Linux y Windows. También he trabajado en automatizaciónes con Python y desarrollo frontend con HTML, CSS y JavaScript.
+
+Conocimientos en redes, ciberseguridad, prácticas DevOps y despliegue de aplicaciones.
 
 Programming is my profession and hobby! 💻
 </p>
