@@ -10,7 +10,6 @@ Experience in networking, cybersecurity, DevOps practices, and application deplo
 Programming is my profession and hobby!
 </p>
 
-### 🚀 Technologies That I Know 👨🏻‍💻
 <p align="center">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,linux,git,github,html,css,js,postman,py,idea,vscode,linkedin,stackoverflow,discord&perline=14" alt="Tech Stack" />
