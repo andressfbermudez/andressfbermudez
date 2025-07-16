@@ -1,4 +1,4 @@
-<h1 align="center" style="font-weight: 900;">Hi  width="30">, I'm Andrés</h1>
+<h1 align="center" style="font-weight: 900;">Hi, I'm Andrés</h1>
 
 <p>
 Software developer specializing in backend development, with experience developing web applications using Java (Spring Boot) and Python (FastAPI). Knowledge of relational database administration, design, and management (SQL).
