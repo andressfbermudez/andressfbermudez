@@ -1,4 +1,4 @@
-<h1 align="center" style="font-weight: 900;">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Andrés <img height="40" src="/images/parrot.gif"></h1>
+<h1 align="center" style="font-weight: 900;">Hi  width="30">, I'm Andrés</h1>
 
 <p>
 Software developer specializing in backend development, with experience developing web applications using Java (Spring Boot) and Python (FastAPI). Knowledge of relational database administration, design, and management (SQL).
