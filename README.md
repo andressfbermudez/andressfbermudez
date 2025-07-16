@@ -10,7 +10,6 @@ Experience in networking, cybersecurity, DevOps practices, and application deplo
 Programming is my profession and hobby! 💻
 </p>
 
-<h2 align="center">📊 My Statistics 📈</h2>
 <table border="0" align="center">
 <tr border="0">
 <td width="50%" align="center">
