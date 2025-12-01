@@ -1,11 +1,9 @@
 <p>
-Software developer specializing in backend development, with experience developing web applications using Java (Spring Boot) and Python (FastAPI). Knowledge of relational database administration, design, and management (SQL).
+Desarrollador de software especializado en backend, con experiencia en el desarrollo de aplicaciones web con Python (FastAPI) y Java (Spring Boot). Administración, diseño y gestión de bases de datos relacionales (SQL) y no relacionales (NoSQL). 
 
-Experience developing RESTful APIs, web applications, desktop applications, and Linux and Windows server administration. I have also worked on automation with Python and frontend development with HTML, CSS, and JavaScript.
+Experiencia en el desarrollo de APIs RESTful, aplicaciones web, aplicaciones de escritorio y administración de servidores Linux y Windows. También he trabajado en proyectos de automatización y desarrollo frontend con React, HTML, CSS y JavaScript.
 
-Experience in networking, cybersecurity, DevOps practices, and application deployment.
-
-Programming is my profession and hobby!
+Conocimientos en redes, ciberseguridad, prácticas DevOps y despliegue de aplicaciones.
 </p>
 
 <p align="center">
