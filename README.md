@@ -8,6 +8,6 @@ Conocimientos en redes, ciberseguridad, prácticas DevOps y despliegue de aplica
 
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,linux,git,github,html,css,js,postman,py,idea,vscode,linkedin,stackoverflow,discord&perline=14" alt="Tech Stack" />
+        <img src="https://skillicons.dev/icons?i=arch,linux,py,fastapi,java,spring,postgres,mysql,elasticsearch,git,github,html,css,js,postman,idea,pycharm,vscode,linkedin,stackoverflow,vercel&perline=14" alt="Tech Stack" />
     </a>
 </p>
